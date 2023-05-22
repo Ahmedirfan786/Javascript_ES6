@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="module.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <h2>A simple Calculator</h2>
+        <input type="number" placeholder="Enter your operand" id="oprnd1">
+        <select id="operator">
+            <option value="+">+</option>
+            <option value="-">-</option>
+            <option value="*">*</option>
+            <option value="/">/</option>
+        </select>
+        <input type="number" placeholder="Enter your operand" id="oprnd2">
+        <button id="calculate">calculate</button>
+        <div id="resultbox">
+            <h3 id="resulttxt"></h3>
+        </div>
+    </div>
+</body>
+<script type="module">    
+import {oprnd1,oprnd2,opr,btn,resulttxt,result} from "./module.js";
+btn.addEventListener("click", () => {
+           return result(oprnd1,oprnd2,opr,resulttxt)
+        })
+              
+</script>
+</html>
