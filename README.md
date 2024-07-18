@@ -4,7 +4,7 @@
 Repository Developer: Ahmed Irfan
 
 
-![Untitled](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png)
+![Untitled](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt_sEn24GdlhKqI6zd0n6X4lbfVJlhN8l92w&s)
 
 
 🐱‍💻What is JavaScript❓
@@ -13,14 +13,14 @@ Repository Developer: Ahmed Irfan
 
 Key features of JavaScript include:
 
-1) Client-Side Scripting: JavaScript code is executed on the client-side (in the user's web browser), allowing for dynamic updates and interactions without needing to reload the entire web page.
+1)Client-Side Scripting: JavaScript code is executed on the client-side (in the user's web browser), allowing for dynamic updates and interactions without needing to reload the entire web page.
 
-2) Versatility: JavaScript can be used for a wide range of tasks, from simple webpage animations to complex web applications and server-side development (with Node.js).
+2)Versatility: JavaScript can be used for a wide range of tasks, from simple webpage animations to complex web applications and server-side development (with Node.js).
 
-3) Integration with HTML and CSS: JavaScript works seamlessly with HTML and CSS, allowing developers to manipulate DOM elements (HTML structure) and apply styles dynamically.
+3)Integration with HTML and CSS: JavaScript works seamlessly with HTML and CSS, allowing developers to manipulate DOM elements (HTML structure) and apply styles dynamically.
 
-4) Libraries and Frameworks: There are many libraries and frameworks built on JavaScript (e.g., jQuery, React, Angular, Vue.js) that simplify complex tasks and enhance productivity.
+4)Libraries and Frameworks: There are many libraries and frameworks built on JavaScript (e.g., jQuery, React, Angular, Vue.js) that simplify complex tasks and enhance productivity.
 
-5) Event-Driven: JavaScript is event-driven, meaning it can respond to user actions like clicks, mouse movements, and keyboard input.
+5)Event-Driven: JavaScript is event-driven, meaning it can respond to user actions like clicks, mouse movements, and keyboard input.
 
-6) Asynchronous Programming: JavaScript supports asynchronous programming, which allows handling of tasks that might take time (like fetching data from a server) without blocking other operations.
+6)Asynchronous Programming: JavaScript supports asynchronous programming, which allows handling of tasks that might take time (like fetching data from a server) without blocking other operations.
